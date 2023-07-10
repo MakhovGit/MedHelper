@@ -43,6 +43,7 @@
         app:backgroundTint="@color/red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:maxImageSize="@dimen/activity_main_add_button_max_image_size" />
+        app:maxImageSize="@dimen/activity_main_add_button_max_image_size"
+        app:tint="@android:color/white" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
