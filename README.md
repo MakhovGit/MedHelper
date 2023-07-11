@@ -7,3 +7,11 @@ MedHelper - приложение, которое хранит и отображ�
 - Coroutines
 - Koin
 - Google Firestore
+
+Скриншоты:
+
+<div align="center">
+    <img src="/screenshots/Screenshot_01.png" width="400px"><p>Главный экран со списком измерений</p></img> 
+    <br>
+    <img src="/screenshots/Screenshot_02.png" width="400px"><p>Диалог ввода измерений</p></img> 
+</div>
